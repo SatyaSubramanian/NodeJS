@@ -95,5 +95,7 @@ Numbers
 BigInts
 Strings
 Symbols
+Objects{}
+Functions()
 ----------------------------------------------
 */

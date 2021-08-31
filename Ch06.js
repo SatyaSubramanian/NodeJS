@@ -1,0 +1,13 @@
+/*
+----------------------------------------------
+Undefined
+Null
+Booleans
+Numbers
+BigInts
+Strings
+Symbols
+Objects{}
+Functions()
+----------------------------------------------
+*/
